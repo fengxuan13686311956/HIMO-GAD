@@ -1,4 +1,4 @@
-## Breaking Semantic Barriers: A Zero-Shot Generalized Framework for Graph Anomaly Detection
+## Rethinking Generalization in Graphs: A Hierarchical Interaction Perspective for Generalist Detection
 ## KDD(2026)
 ![框架图](image.png)
 ## Get Started
